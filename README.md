@@ -2,7 +2,7 @@
 
 1. Utilize o git https://github.com/digitalinnovationone/terraform-gcp/tree/main/terraform-exemplo2 para configurar a trigger do Cloud Build.
 
-2. Edite o script para trocar o nome da máquina para cloudbbuild terraform.
+2. Edite o script para trocar o nome da máquina para cloudbbuildterraform.
 
 3. Salve os arquivos do Estado no Google Cloud Storage.
 
